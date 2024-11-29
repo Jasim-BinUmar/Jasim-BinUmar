@@ -87,7 +87,7 @@ A full-stack blog application with the following features:
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jasim-umar-9a034a253/)  
 - **Portfolio:** [View My Work](https://github.com/Jasim-BinUmar/)  
-- **Email:** [jasim.email@example.com](mailto:jasimbinumar@gmail.com)  
+- **Email:** [jasimbinumar@gmail.com](mailto:jasimbinumar@gmail.com)  
 
 Thanks for visiting my GitHub profile! Let's collaborate and create something amazing together. 🚀  
 
