@@ -33,6 +33,8 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in web 
 ### Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1E90FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNOC43MTUgNmwtLjY3NS42NzVMNS45MyA1LjU2NSAzLjU1IDguMDQgMS4xNzUgNS42NS41IDYuODM1TDIuODc1IDlsLjc3NS0uNzcyTDUuMjUuNTZMOC43IDMuMzQ1IDEyLjAyLjU3bC43NzQuNzcyTDExLjEyNSA2IDEzLjUgOC4zNTUgbC0uNjc0LjY3NUw4LjcxNSA2em0wIDEuNDJMMTAuMDUgOEw4IDlmMi4wNSAxLjA1LS4xMDUtMi0xLjA1eiIvPjwvc3ZnPg==&logoColor=white)
+
 
 ### Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
