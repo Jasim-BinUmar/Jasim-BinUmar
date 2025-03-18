@@ -17,7 +17,9 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in web,
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
+![Plasmo](https://img.shields.io/badge/Plasmo-FF6D00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiBoZWlnaHQ9IjUwMHB4IiB2aWV3Qm94PSIwIDAgNjQgNjQiIHdpZHRoPSI1MDBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu\nb3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNDgsMTZsLTgsMEw0MCwyNEw0OCwyNEw0OCwxNnoiLz48cGF0aCBkPSJNMTYsNDhsOCwwTDMyLDMyTDE2LDMydjE2\nWiIvPjxwYXRoIGQ9Ik00OCwyNGwtOCwwTDMyLDMybDE2LDE2VjI0WiIvPjwvc3ZnPg==)
+
 
 
 ### Backend Development  
