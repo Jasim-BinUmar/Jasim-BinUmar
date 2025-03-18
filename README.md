@@ -1,6 +1,6 @@
 # 🌟 Jasim - Full-Stack Developer  
 
-Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in web and mobile application development. I love creating innovative solutions, building user-friendly interfaces, and writing clean, scalable code.  
+Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in web, mobile and chrome extension application development. I love creating innovative solutions, building user-friendly interfaces, robust backend and writing clean, scalable code.  
 
 ---
 
