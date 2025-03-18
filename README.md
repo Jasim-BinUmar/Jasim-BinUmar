@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="500" />
+<img src="https://cdn.dribbble.com/users/1025839/screenshots/6220885/dev_4x.gif" width="500" />
 
 </p>
 
