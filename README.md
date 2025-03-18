@@ -13,8 +13,9 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in **We
 
 ## 🚀 Skills & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,next,tailwind,scss,materialui,plasmo,nodejs,express,mongodb,mysql,git,github,vercel,java,cpp,c" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,c,react,next,plasmo,tailwind,scss,materialui,nodejs,express,mongodb,mysql,git,github,vercel" alt="My Skills" />
 </p>
+
 
 ---
 
