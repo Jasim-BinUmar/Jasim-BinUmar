@@ -1,6 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
- <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/programmer.gif" width="500" />
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="500" />
+
 </p>
 
 # 🌟 Jasim - Full-Stack Developer  
