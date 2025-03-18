@@ -42,11 +42,11 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in **We
 
 ---
 
-## ⏳ GitHub Streaks  
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Jasim-BinUmar&theme=radical&border_radius=4.5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jasim-BinUmar&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasim-BinUmar&layout=compact&theme=radical" height="150" />
 </p>
-
 
 ---
 
@@ -59,11 +59,8 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in **We
 
 ## ⏳ GitHub Streaks  
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Jasim-BinUmar&theme=radical&border_radius=4.5" />
+  <img src="https://streak-stats.demolab.com/?user=Jasim-BinUmar&theme=radical&border_radius=4.5" />
 </p>
-
-
-
 
 ---
 
