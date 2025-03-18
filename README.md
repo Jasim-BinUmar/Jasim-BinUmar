@@ -34,8 +34,9 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in **We
 ### 📱 Mobile Apps  
 | Project | Status | Tech |
 |---------|--------|------|
+| **Mindful Presence** | Completed | React Native |
 | **Aora** | 🚧 50% Complete | React Native + Expo |
-| **Mindful Presence** | 🕰️ Coming Soon | React Native |
+
 
 ---
 
