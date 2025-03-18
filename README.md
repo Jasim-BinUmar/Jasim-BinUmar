@@ -14,7 +14,6 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in **We
 ## 🚀 Skills & Technologies  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,java,cpp,c,react,next,tailwind,scss,materialui,nodejs,express,mongodb,mysql,git,github,vercel" alt="My Skills" />
-  <img src="https://raw.githubusercontent.com/PlasmoHQ/plasmo/main/assets/logo-color.png" alt="Plasmo" width="50" height="50"/>
 </p>
 
 
