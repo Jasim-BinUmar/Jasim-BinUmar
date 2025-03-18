@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/Z9bZx0z.gif" alt="Welcome to Jasim's GitHub!" width="100%" />
+ <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
 </p>
 
 # 🌟 Jasim - Full-Stack Developer  
