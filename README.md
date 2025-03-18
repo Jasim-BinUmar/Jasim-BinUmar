@@ -1,71 +1,86 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/Z9bZx0z.gif" alt="Welcome to Jasim's GitHub!" width="100%" />
+</p>
+
 # 🌟 Jasim - Full-Stack Developer  
 
-Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in web, mobile and chrome extension application development. I love creating innovative solutions, building user-friendly interfaces, robust backend and writing clean, scalable code.  
+Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in **Web**, **Mobile**, and **Chrome Extension** application development. I love crafting **innovative solutions**, building **user-friendly interfaces**, and writing **clean, scalable code**.
 
 ---
 
 ## 🚀 Skills & Technologies  
-
-### Programming Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)    
-
-### Frontend Development  
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Plasmo](https://img.shields.io/badge/Plasmo-FF6D00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiBoZWlnaHQ9IjUwMHB4IiB2aWV3Qm94PSIwIDAgNjQgNjQiIHdpZHRoPSI1MDBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu\nb3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNDgsMTZsLTgsMEw0MCwyNEw0OCwyNEw0OCwxNnoiLz48cGF0aCBkPSJNMTYsNDhsOCwwTDMyLDMyTDE2LDMydjE2\nWiIvPjxwYXRoIGQ9Ik00OCwyNGwtOCwwTDMyLDMybDE2LDE2VjI0WiIvPjwvc3ZnPg==)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
-
-### Backend Development  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-
-### Mobile Development  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
-
-### Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,next,tailwind,scss,materialui,plasmo,nodejs,express,mongodb,mysql,git,github,vercel,java,cpp,c" alt="My Skills" />
+</p>
 
 ---
 
 ## ✨ Featured Projects  
 
 ### 🌐 Blog Application  
-A full-stack blog application with the following features:  
-- **Frontend:** React.js with a responsive UI and CRUD functionality  
-- **Backend:** Express.js with JWT authentication  
+📝 A full-stack blog application with:  
+- **Frontend:** React.js  
+- **Backend:** Express.js with JWT Authentication  
 - **Database:** MongoDB Atlas  
-- **Key Features:** Categories/tags, pagination, comments, and image uploads using Multer  
+- **Features:** Categories/tags, pagination, comments, image uploads using Multer  
 
-### 📱 Mobile Apps  
-- **Aora:** AI-generated video-sharing platform (50% complete)  
-- **Mindful Presence:** A mindfulness app (coming soon!)  
+<p align="center">
+  <img src="https://github.com/Jasim-BinUmar/BlogNest-FE/blob/main/assets/demo.gif" alt="Blog Demo" width="80%" />
+</p>
+
 ---
 
-## 📈 GitHub Stats  
+### 📱 Mobile Apps  
+| Project | Status | Tech |
+|---------|--------|------|
+| **Aora** | 🚧 50% Complete | React Native + Expo |
+| **Mindful Presence** | 🕰️ Coming Soon | React Native |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasim-BinUmar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasim-BinUmar&layout=compact&theme=radical)  
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jasim-BinUmar&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasim-BinUmar&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jasim-BinUmar&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## ⏳ GitHub Streaks  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jasim-BinUmar&theme=radical&border_radius=4.5" />
+</p>
+
+---
+
+## 📈 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jasim-BinUmar&theme=radical" />
+</p>
 
 ---
 
 ## 📫 Let's Connect!  
-
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jasim-umar-9a034a253/)  
-- **Portfolio:** [View My Work](https://github.com/Jasim-BinUmar/)  
-- **Email:** [jasimbinumar@gmail.com](mailto:jasimbinumar@gmail.com)  
-
-Thanks for visiting my GitHub profile! Let's collaborate and create something amazing together. 🚀  
+<p align="center">
+  <a href="https://www.linkedin.com/in/jasim-umar-9a034a253/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:jasimbinumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Jasim-BinUmar/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
+
+<p align="center">
+  Thanks for visiting my profile! Let's collaborate and create something amazing together 🚀
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jasim-BinUmar&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
