@@ -62,8 +62,9 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in **We
 
 ## ⏳ GitHub Streaks  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jasim-BinUmar&theme=radical&border_radius=4.5" />
+  <img src="https://streak-stats.demolab.com/?user=Jasim-BinUmar&theme=radical&border_radius=4.5" loading="lazy" alt="GitHub Streak" />
 </p>
+
 
 ---
 
