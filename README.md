@@ -1,6 +1,6 @@
 <!-- Profile Banner with a professional animation -->
 <p align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="650" alt="Developer Banner" />
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" />
 </p>
 
 <h1 align="center">👨‍💻 Jasim | Full-Stack Developer</h1>
