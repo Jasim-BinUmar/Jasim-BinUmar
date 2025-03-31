@@ -3,7 +3,12 @@
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" />
 </p>
 
-<h1 align="center">👨‍💻 Jasim | Full-Stack Developer</h1>
+<!-- <h1 align="center">👨‍💻 Jasim | Full-Stack Developer</h1> -->
+<h1 align="center">🌟 Jasim - Full-Stack Developer</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=4169e1&center=true&width=500&lines=Web+%7C+Mobile+%7C+Chrome+Extensions;Clean+Code+%7C+Scalable+Solutions;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing Animation">
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jasim-umar-9a034a253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -20,7 +25,7 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Skills Section - Reorganized and Added TypeScript and Nest.js -->
+<!-- Skills Section - Now with Prisma and PostgreSQL -->
 <h2 align="center">🚀 Skills & Technologies</h2>
 
 <!-- Programming Languages -->
@@ -47,11 +52,23 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" title="Process Manager for Node.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" title="Next-gen ORM for Node.js & TypeScript" />
+</p>
+
+<!-- DevOps & Deployment -->
+<h3 align="center">DevOps & Deployment</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" title="High-performance web server/reverse proxy" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" title="Cloud platform for static sites & Serverless Functions" />
+  <img src="https://img.shields.io/badge/Certbot-269539?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Certbot" title="Automated SSL certificate tool by Let's Encrypt" />
 </p>
 
 <!-- Database & Tools -->
 <h3 align="center">Database & Tools</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="Advanced open-source relational database" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
