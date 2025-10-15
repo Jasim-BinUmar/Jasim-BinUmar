@@ -90,62 +90,121 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Featured Projects Section -->
-<h2 align="center">✨ Featured Projects</h2>
+<h2 align="center">💼 Featured Projects</h2>
 
-<h3 align="center">🤖 Solana Trading Bots</h3>
+<br/>
+
+<!-- Project 1: Solana Trading Bots -->
+<div align="center">
+  
+### <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="30" height="30" /> Solana Trading Bots
+
+[![Solana](https://img.shields.io/badge/Blockchain-Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)](https://solana.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+**Advanced trading automation on Solana blockchain**
+
+```yaml
+Volume Bot & Trading Bot:
+  ├─ Automated trading strategies
+  ├─ Volume generation & market making
+  ├─ Real-time market data integration
+  └─ Efficient transaction handling
+
+Tech Stack:
+  ├─ Solana Web3.js
+  ├─ Jupiter Aggregator
+  ├─ Raydium SDK
+  ├─ Helius RPC
+  └─ CoinGecko API
+```
+
+</div>
+
+<br/>
+
+<!-- Divider -->
 <p align="center">
-  Advanced trading automation on Solana blockchain:
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Volume_Bot-14F195?style=flat-square&logo=solana&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Trading_Bot-8B5CF6?style=flat-square&logo=solana&logoColor=white" />
-</p>
-<p align="center">
-  <b>Tech Stack:</b> Solana Web3.js, Jupiter Aggregator, Raydium SDK, Helius RPC, CoinGecko API
-</p>
-<p align="center">
-  <b>Features:</b> Automated trading strategies, volume generation, real-time market data integration, efficient transaction handling
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
 
-<h3 align="center">🛒 Souq G – Modern Classifieds Marketplace</h3>
+<br/>
+
+<!-- Project 2: Souq G -->
+<div align="center">
+
+### <img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="30" height="30" /> Souq G – Modern Classifieds Marketplace
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-souqg.com-4169E1?style=for-the-badge)](https://souqg.com)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+
+**Full-featured online marketplace for Property, Motors & Bazar**
+
+```yaml
+Core Features:
+  ├─ Property, Motors & Bazar listings
+  ├─ User ratings & reviews system
+  ├─ Advanced filtering & sorting
+  └─ Featured ads & banner system
+
+Admin Panel:
+  ├─ Comprehensive dashboard with RBAC
+  ├─ Stripe & token payment management
+  ├─ Analytics & CTR tracking
+  ├─ Ad performance metrics
+  └─ Role & user management
+
+Monetization:
+  ├─ Stripe payment integration
+  ├─ Custom token-based payments
+  ├─ Premium listing promotions
+  └─ Featured advertisement system
+```
+
+</div>
+
+<br/>
+
+<!-- Divider -->
 <p align="center">
-  A full-featured online marketplace for Property, Motors, and Bazar:
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Next.js-000000?style=flat-square&logo=next.js" /> 
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js" /> 
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql" /> 
-  <img src="https://img.shields.io/badge/Payment-Stripe-008CDD?style=flat-square&logo=stripe" />
-  <img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=flat-square&logo=prisma" />
-</p>
-<p align="center">
-  <b>Core Features:</b> Property/Motors/Bazar listings • User ratings & reviews • Advanced filtering & sorting • Featured ads & banner system
-</p>
-<p align="center">
-  <b>Admin Panel:</b> Comprehensive dashboard with RBAC • Stripe & token payment management • Analytics & CTR tracking • Ad performance metrics • Role & user management
-</p>
-<p align="center">
-  <b>Monetization:</b> Stripe integration • Custom token-based payments • Premium listing promotions • Featured advertisements
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
 
-<h3 align="center">📱 Mobile Apps</h3>
-<table align="center">
+<br/>
+
+<!-- Project 3: Mobile Apps -->
+<div align="center">
+
+### <img src="https://cdn-icons-png.flaticon.com/512/2972/2972351.png" width="30" height="30" /> Mobile Applications
+
+<table>
   <tr>
-    <th>Project</th>
-    <th>Status</th>
-    <th>Tech</th>
+    <th>📱 Project</th>
+    <th>🚀 Status</th>
+    <th>⚙️ Tech Stack</th>
+    <th>🔗 Link</th>
   </tr>
   <tr align="center">
     <td><b>Mindful Presence</b></td>
-    <td>✅ Completed</td>
+    <td><img src="https://img.shields.io/badge/✅-Completed-success?style=flat-square" /></td>
     <td>React Native</td>
+    <td>-</td>
   </tr>
   <tr align="center">
     <td><b>Souq G Mobile</b></td>
-    <td>✅ Completed</td>
+    <td><img src="https://img.shields.io/badge/✅-Completed-success?style=flat-square" /></td>
     <td>React Native + Expo</td>
+    <td><a href="https://souqg.com">souqg.com</a></td>
   </tr>
 </table>
+
+</div>
+
+<br/>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
