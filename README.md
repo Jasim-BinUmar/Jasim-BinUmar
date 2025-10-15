@@ -107,21 +107,25 @@
   <b>Features:</b> Automated trading strategies, volume generation, real-time market data integration, efficient transaction handling
 </p>
 
-<h3 align="center">🌐 Blog Application</h3>
+<h3 align="center">🛒 Souq G – Modern Classifieds Marketplace</h3>
 <p align="center">
-  A full-stack blog application with:
+  A full-featured online marketplace for Property, Motors, and Bazar:
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=flat-square&logo=react" /> 
-  <img src="https://img.shields.io/badge/Backend-Express.js-000000?style=flat-square&logo=express" /> 
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb" /> 
-  <img src="https://img.shields.io/badge/Auth-JWT-000000?style=flat-square&logo=json-web-tokens" />
+  <img src="https://img.shields.io/badge/Frontend-Next.js-000000?style=flat-square&logo=next.js" /> 
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js" /> 
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql" /> 
+  <img src="https://img.shields.io/badge/Payment-Stripe-008CDD?style=flat-square&logo=stripe" />
+  <img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=flat-square&logo=prisma" />
 </p>
 <p align="center">
-  <b>Features:</b> Categories/tags, pagination, comments, image uploads using Multer
+  <b>Core Features:</b> Property/Motors/Bazar listings • User ratings & reviews • Advanced filtering & sorting • Featured ads & banner system
 </p>
 <p align="center">
-  <img src="https://github.com/Jasim-BinUmar/BlogNest-FE/blob/main/assets/demo.gif" alt="Blog Demo" width="80%" />
+  <b>Admin Panel:</b> Comprehensive dashboard with RBAC • Stripe & token payment management • Analytics & CTR tracking • Ad performance metrics • Role & user management
+</p>
+<p align="center">
+  <b>Monetization:</b> Stripe integration • Custom token-based payments • Premium listing promotions • Featured advertisements
 </p>
 
 <h3 align="center">📱 Mobile Apps</h3>
@@ -137,8 +141,8 @@
     <td>React Native</td>
   </tr>
   <tr align="center">
-    <td><b>Aora</b></td>
-    <td>🚧 50% Complete</td>
+    <td><b>Souq G Mobile</b></td>
+    <td>✅ Completed</td>
     <td>React Native + Expo</td>
   </tr>
 </table>
