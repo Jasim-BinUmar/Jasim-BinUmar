@@ -161,7 +161,7 @@ A full-featured online marketplace connecting users for buying, selling, and dis
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/meditation.png" width="60" />
+<img src="https://img.icons8.com/fluency/96/lotus.png" width="60" />
 
 **Mindful Presence**
 
