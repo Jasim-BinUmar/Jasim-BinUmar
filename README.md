@@ -122,25 +122,33 @@ Advanced automation for Solana blockchain trading
 ### 🛒 Souq G Marketplace
 **🌐 [Visit souqg.com →](https://souqg.com)**
 
-Modern classifieds platform for Property, Motors & Bazar
+A full-featured online marketplace connecting users for buying, selling, and discovering deals across Property, Motors, and Bazar categories. Built with focus on **simplicity, speed, and trust**.
 
 **🎯 Core Features:**
-- Multi-category listings (Property/Motors/Bazar)
-- User ratings & review system
-- Featured ads & promotional banners
-- Advanced filtering & search
+- **Property, Motors & Bazar Sections** - Browse & list properties, vehicles, and general items with advanced filters, sorting options, and detailed listings
+- **User Ratings & Reviews** - Build trust and credibility through buyer-seller rating system
+- **Advertising System:**
+  - Featured Ads for higher visibility in search results
+  - Posters/Banners in hero area and category pages
+- **Payments & Monetization** - Stripe integration + custom token-based transactions for premium listings
 
-**🔐 Admin Dashboard:**
-- Role-based access control (RBAC)
-- Stripe & token payment management
-- Analytics, CTR tracking & demographics
-- Ad performance monitoring
+**🔐 Admin Panel:**
+- **Payment Management** - Configure Stripe keys, add/update supported payment tokens
+- **Role-Based Access Control (RBAC)** - Define user roles with specific permissions for secure platform management
+- **Content Management** - Create and manage roles, users, ads, and promotional posters
+- **Analytics & Insights:**
+  - CTR (Click-Through Rate) tracking
+  - Impressions & user engagement statistics
+  - Detailed demographic insights
+  - Ad performance metrics for campaign effectiveness
 
 **⚡ Tech Stack:**
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+
+**🚀 Design:** Responsive and scalable architecture optimized for both web and mobile devices
 
 </td>
 </tr>
