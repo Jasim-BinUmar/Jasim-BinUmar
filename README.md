@@ -90,119 +90,108 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Featured Projects Section -->
-<h2 align="center">💼 Featured Projects</h2>
+<h2 align="center">✨ Featured Projects</h2>
 
 <br/>
 
-<!-- Project 1: Solana Trading Bots -->
-<div align="center">
-  
-### <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="30" height="30" /> Solana Trading Bots
-
-[![Solana](https://img.shields.io/badge/Blockchain-Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)](https://solana.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-
-**Advanced trading automation on Solana blockchain**
-
-```yaml
-Volume Bot & Trading Bot:
-  ├─ Automated trading strategies
-  ├─ Volume generation & market making
-  ├─ Real-time market data integration
-  └─ Efficient transaction handling
-
-Tech Stack:
-  ├─ Solana Web3.js
-  ├─ Jupiter Aggregator
-  ├─ Raydium SDK
-  ├─ Helius RPC
-  └─ CoinGecko API
-```
-
-</div>
-
-<br/>
-
-<!-- Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</p>
-
-<br/>
-
-<!-- Project 2: Souq G -->
-<div align="center">
-
-### <img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="30" height="30" /> Souq G – Modern Classifieds Marketplace
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-souqg.com-4169E1?style=for-the-badge)](https://souqg.com)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-
-**Full-featured online marketplace for Property, Motors & Bazar**
-
-```yaml
-Core Features:
-  ├─ Property, Motors & Bazar listings
-  ├─ User ratings & reviews system
-  ├─ Advanced filtering & sorting
-  └─ Featured ads & banner system
-
-Admin Panel:
-  ├─ Comprehensive dashboard with RBAC
-  ├─ Stripe & token payment management
-  ├─ Analytics & CTR tracking
-  ├─ Ad performance metrics
-  └─ Role & user management
-
-Monetization:
-  ├─ Stripe payment integration
-  ├─ Custom token-based payments
-  ├─ Premium listing promotions
-  └─ Featured advertisement system
-```
-
-</div>
-
-<br/>
-
-<!-- Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-</p>
-
-<br/>
-
-<!-- Project 3: Mobile Apps -->
-<div align="center">
-
-### <img src="https://cdn-icons-png.flaticon.com/512/2972/2972351.png" width="30" height="30" /> Mobile Applications
-
+<!-- Project Cards Layout -->
 <table>
-  <tr>
-    <th>📱 Project</th>
-    <th>🚀 Status</th>
-    <th>⚙️ Tech Stack</th>
-    <th>🔗 Link</th>
-  </tr>
-  <tr align="center">
-    <td><b>Mindful Presence</b></td>
-    <td><img src="https://img.shields.io/badge/✅-Completed-success?style=flat-square" /></td>
-    <td>React Native</td>
-    <td>-</td>
-  </tr>
-  <tr align="center">
-    <td><b>Souq G Mobile</b></td>
-    <td><img src="https://img.shields.io/badge/✅-Completed-success?style=flat-square" /></td>
-    <td>React Native + Expo</td>
-    <td><a href="https://souqg.com">souqg.com</a></td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Solana Trading Bots
+Advanced automation for Solana blockchain trading
+
+**🎯 What it does:**
+- Volume generation & market making
+- Automated trading strategies
+- Real-time market data integration
+- High-performance transaction handling
+
+**⚡ Built with:**
+- Solana Web3.js & Jupiter Aggregator
+- Raydium SDK & Helius RPC
+- CoinGecko API for price feeds
+
+<img src="https://img.shields.io/badge/Blockchain-Solana-14F195?style=flat-square&logo=solana&logoColor=black" />
+<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Souq G Marketplace
+**🌐 [Visit souqg.com →](https://souqg.com)**
+
+Modern classifieds platform for Property, Motors & Bazar
+
+**🎯 Core Features:**
+- Multi-category listings (Property/Motors/Bazar)
+- User ratings & review system
+- Featured ads & promotional banners
+- Advanced filtering & search
+
+**🔐 Admin Dashboard:**
+- Role-based access control (RBAC)
+- Stripe & token payment management
+- Analytics, CTR tracking & demographics
+- Ad performance monitoring
+
+**⚡ Tech Stack:**
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+
+</td>
+</tr>
 </table>
 
-</div>
+<br/>
+
+### 📱 Mobile Applications
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/meditation.png" width="60" />
+
+**Mindful Presence**
+
+Meditation & mindfulness app
+
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+
+`React Native`
+
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/shop.png" width="60" />
+
+**Souq G Mobile**
+
+Marketplace on the go
+
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+
+`React Native + Expo`
+
+**[Download →](https://souqg.com)**
+
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="60" />
+
+**More Projects**
+
+Coming Soon...
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+
+`Stay Tuned`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
