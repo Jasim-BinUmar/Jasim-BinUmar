@@ -6,7 +6,7 @@
 <!-- <h1 align="center">👨‍💻 Jasim | Full-Stack Developer</h1> -->
 <h1 align="center">🌟 Jasim - Full-Stack Developer</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=4169e1&center=true&width=500&lines=Web+%7C+Mobile+%7C+Chrome+Extensions;Clean+Code+%7C+Scalable+Solutions;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=4169e1&center=true&width=500&lines=Web+%7C+Mobile+%7C+Chrome+Extensions;Blockchain+%7C+Trading+Bots;Clean+Code+%7C+Scalable+Solutions;Open+to+Collaborations+%F0%9F%9A%80" alt="Typing Animation">
 </p>
 
 
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in <b>Web</b>, <b>Mobile</b>, and <b>Chrome Extension</b> development. 
+  Welcome to my GitHub! I'm a passionate Full-Stack Developer specializing in <b>Web</b>, <b>Mobile</b>, <b>Chrome Extension</b>, and <b>Blockchain</b> development. 
   I love crafting <b>innovative solutions</b>, building <b>user-friendly interfaces</b>, and writing <b>clean, scalable code</b>.
 </p>
 
@@ -33,6 +33,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
@@ -52,8 +53,19 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white" alt="Fiber" title="Express-inspired web framework for Go" />
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" title="Process Manager for Node.js" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" title="Next-gen ORM for Node.js & TypeScript" />
+</p>
+
+<!-- Blockchain & Web3 -->
+<h3 align="center">Blockchain & Web3</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana" title="High-performance blockchain" />
+  <img src="https://img.shields.io/badge/Jupiter-7B3FE4?style=for-the-badge&logo=jupiter&logoColor=white" alt="Jupiter" title="Solana DEX Aggregator" />
+  <img src="https://img.shields.io/badge/Raydium-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTIiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=" alt="Raydium" title="Solana AMM & Liquidity Provider" />
+  <img src="https://img.shields.io/badge/CoinGecko-8DC647?style=for-the-badge&logo=coingecko&logoColor=white" alt="CoinGecko" title="Crypto Data API" />
+  <img src="https://img.shields.io/badge/Helius_RPC-4F46E5?style=for-the-badge&logo=solana&logoColor=white" alt="Helius RPC" title="High-performance Solana RPC" />
 </p>
 
 <!-- DevOps & Deployment -->
@@ -79,6 +91,21 @@
 
 <!-- Featured Projects Section -->
 <h2 align="center">✨ Featured Projects</h2>
+
+<h3 align="center">🤖 Solana Trading Bots</h3>
+<p align="center">
+  Advanced trading automation on Solana blockchain:
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Volume_Bot-14F195?style=flat-square&logo=solana&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Trading_Bot-8B5CF6?style=flat-square&logo=solana&logoColor=white" />
+</p>
+<p align="center">
+  <b>Tech Stack:</b> Solana Web3.js, Jupiter Aggregator, Raydium SDK, Helius RPC, CoinGecko API
+</p>
+<p align="center">
+  <b>Features:</b> Automated trading strategies, volume generation, real-time market data integration, efficient transaction handling
+</p>
 
 <h3 align="center">🌐 Blog Application</h3>
 <p align="center">
