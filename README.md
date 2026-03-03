@@ -199,10 +199,7 @@ Coming Soon...
 <!-- FIXED: Added cache_seconds + v=2 to reduce camo caching issues -->
 <!-- If this still fails, it's the trophy service being down. Keep the fallback below enabled. -->
 <p align="center">
- <!-- <img src="https://github-profile-trophy.vercel.app/?username=Jasim-BinUmar&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&cache_seconds=86400&v=2" />  -->
-  ![GitHub stars](https://img.shields.io/github/stars/Jasim-BinUmar?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/Jasim-BinUmar?style=flat-square)
-![GitHub contributions](https://img.shields.io/github/commit-activity/w/Jasim-BinUmar?style=flat-square)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasim-BinUmar&theme=tokyonight" /> 
 </p>
 
 <!-- Fallback (recommended): uncomment if trophy image keeps failing -->
